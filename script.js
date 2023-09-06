@@ -4,7 +4,7 @@ function get(){
 	const n2=document.getElementById("n2").value;
 	const a=parseInt(n1);
 	const b=parseInt(n2);
-		document.getElementById("sum").innerText=a+b;
+		document.getElementById("Sum").innerText=a+b;
 		//document.getElementById("sum").innerText="";
 }
 const sum=document.getElementById("sum_btn");
